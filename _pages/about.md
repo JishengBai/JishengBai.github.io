@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jisheng Bai 白吉生"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
