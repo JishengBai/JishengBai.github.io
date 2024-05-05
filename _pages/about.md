@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Jisheng Bai, a Ph.D. student at the Joint Laboratory of Environmental Sound Sensing, School of Marine Science and Technology, Northwestern Polytechnical University, Xi'an, China. My supervisor at NWPU is Prof. Jianfeng Chen. My research includes topics related to audio signal processing in Industry, Smart City, and Domestic. I am now a visiting Ph.D. student at the Digital Signal Processing Lab/Smart Nation Translational Lab, School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore. My supervisor at NTU is Prof. Woon-Seng Gan.
+I am Jisheng Bai, a Ph.D. candidate at the Joint Laboratory of Environmental Sound Sensing, School of Marine Science and Technology, Northwestern Polytechnical University (NWPU) in Xi'an, China. My supervisor at NWPU is Professor Jianfeng Chen. My research focuses on topics related to audio signal processing for industrial, smart city, and domestic applications. Currently, I am a visiting Ph.D. student at the Digital Signal Processing Lab/Smart Nation Translational Lab, School of Electrical and Electronic Engineering, Nanyang Technological University (NTU) in Singapore, under the supervision of Professor Woon-Seng Gan.
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
@@ -28,9 +28,14 @@ I’m Jisheng Bai, a Ph.D. student at the Joint Laboratory of Environmental Soun
 # Challenges 👊🏼
 
 - **1st** in DCASE 2023 Task 4B: Sound Event Detection with Soft Labels
-- **1st** in 2023 IEEE ICASSP Grand Challenge:L3DAS23-3D Sound Event Localization and Detection in Simulated Reverberant Environments
-- 2nd in [DCASE2020 Task 5-](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval): Urban Sound Tagging with Spatiotemporal Context.
-- 4th in 2024 IEEE ICASSP Grand Challenge: Music demixing/remixing for hearing aids.
+- **1st** in 2023 IEEE ICASSP Grand Challenge: L3DAS23-3D Sound Event Localization and Detection in Simulated Reverberant Environments
+- 2nd in [DCASE2020 Task 5](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval): Urban Sound Tagging with Spatiotemporal Context.
+- 4th in 2024 IEEE ICASSP Grand Challenge: Music demixing/remixing for hearing aids
+- 5th in DCASE 2022 Challenge Task 3: Sound Event Localization and Detection in Real Spatial Sound Scenes
+- 4th in 2022 IEEE ICASSP Grand Challenge: L3DAS22-3D Sound Event Localization and Detection
+- 8th in DCASE 2022 Task 2: Unsupervised Anomalous Sound Detection for Machine Condition Monitoring Applying Domain Generalization Techniques
+- 4th in DCASE 2019 Task 5: Urban Sound Tagging
+- 6th in DCASE 2018 Task 3: Bird audio detection
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
@@ -60,7 +65,7 @@ I’m Jisheng Bai, a Ph.D. student at the Joint Laboratory of Environmental Soun
 
 - **Speaker** for 2nd Signal Processing Society Entrepreneurship Forum at ICASSP 2023.
 
-- **Visiting Scholar** 2023-Now at Digital Signal Processing Lab/Smart Nation Translational Lab, School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore.
+- **Visiting PHD** 2023-Now at Digital Signal Processing Lab/Smart Nation Translational Lab, School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore.
 
 - **Algorithm Engineer (part-time)** 2019-Now in LianFeng Acoustic Technologies Co., Ltd, Xi'an, China.
 
