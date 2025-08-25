@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Lecture and Algorithm Engineer in Audio Signal Processing"
   location         : "China"
-  employer         : "Xi'an University of Posts & Telecommunications, Xi'an Lianfeng Acoustic Technologies Co., Ltd."
+  employer         : "Xi'an University of Posts & Telecommunications"
+  employer         : "Xi'an Lianfeng Acoustic Technologies Co., Ltd."
   uri              : # URL
   email            : "baijs@xupt.edu.cn" 
 
